@@ -1,6 +1,6 @@
 # Credential Hashing
 
-**Completed:** Dec 2020
+**Date Finished:** Dec 2020
 
 **Description:** Completed from a point-of-departure baseline the implementation of a C++ program that reads usernames and passwords from a TXT file, and hashes them into a hash table using chaining.
 
