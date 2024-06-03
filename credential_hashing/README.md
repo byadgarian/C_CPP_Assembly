@@ -1,4 +1,4 @@
-.# Credential Hashing
+# Credential Hashing
 
 **Date Finished:** Dec 2020
 
